@@ -60,7 +60,7 @@ body {
 
 .start-pause button {
   border: none;
-  background: #01ABAA;
+  background: #CB9785;
   font-weight: bold;
   margin: 15px;
   box-shadow: 3px 3px 2px #888888;
@@ -69,7 +69,7 @@ body {
 }
 
 .start-pause button:active {
-   background: #079fb0; 
+   background: #854933; 
   box-shadow: 0 0 0 transparent;
 }
 
@@ -83,7 +83,7 @@ body {
 
 .reset button {
   border: none;
-  background: #DC5754;
+  background: #CB9765;
   font-size: 25px;
   font-weight: bold;
   box-shadow: 3px 3px 2px #888888;
